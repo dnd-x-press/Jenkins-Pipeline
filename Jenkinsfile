@@ -39,7 +39,7 @@ pipeline {
       post{
         success{
           mail to: "duchelle.nunes@gmail.com",
-          subject: "Deployment stage status",
+          subject: "IGNORE:Deployment stage status",
           body: "Deployment was Successfull"
         }
       }

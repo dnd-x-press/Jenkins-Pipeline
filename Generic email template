@@ -1,19 +1,2 @@
 Subject: Urgent: Issues & Challenges with the Secure File Sharing System
 
-I'm writing to bring to your attention some significant issues we're encountering with the secure file-sharing system, particularly affecting one of our task forces. These challenges are causing considerable inefficiencies and potential roadblocks to our workflow, especially when collaborating with external agencies.
-
-The primary concerns are as follows:
-
-Large File Upload Difficulties: The system struggles to efficiently upload large files, even those up to 50GB. To work around this, we've had to compress briefs into ZIP files. However, these ZIP attachments also face upload difficulties, and crucially, they break the internal links within the original brief, making the shared document less functional for the recipient.
-
-Lack of Upload Verification: There is currently no straightforward way to verify if an uploaded file (especially a compressed one) is complete and correct without downloading and uncompressing it. This necessitates a "double handling" process, consuming valuable time and resources.
-
-Incompatibility with External Agency Protocols: We've identified that several other government agencies have their own preferred, established methods for secure file transfer, including encrypted USBs. They are unwilling to adopt or use our new secure file-sharing system, which could severely impede our ability to exchange large files and critical documents with them.
-
-Misleading Sharing Process for New Users: The wording around sharing files is quite misleading. When a file is shared, it states that "new users will be invited to the secure file sharing system automatically." In reality, users must be explicitly invited and added to a specific hub on our contact list before any file sharing can successfully occur. If an email address is added for a contact not already on the system, nothing happens, and there's no way to verify if the invitation or share attempt was successful without directly contacting the recipient. This often leads to repeated, time-consuming attempts.
-
-Two-Factor Authentication (2FA) and Personal Device Issues: There is a significant possibility that certain government agencies will not agree to use this system due to the requirement for 2FA on personal devices. Their internal policies or security protocols may prevent staff from using personal devices for work-related authentication, creating a major barrier to sharing large files with these critical partners.
-
-These issues are collectively impacting our productivity and creating friction in our inter-agency collaborations. I believe it's important to address these points as soon as possible to ensure the system effectively supports our operational needs.
-
-I'd appreciate the opportunity to discuss these challenges further and explore potential solutions.
